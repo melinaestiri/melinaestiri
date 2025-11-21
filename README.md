@@ -23,7 +23,7 @@ Open to collaboration on backend or ML projects! 💼
 - Django / DRF
 - Machine Learning (scikit-learn)
 - NumPy, Pandas, Matplotlib, Seaborn
-- MySQL, SQLite
+- MySQL, SQLite, MongoDB, PostgreSQL
 
 ### Tools
 - Git & GitHub
