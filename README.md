@@ -31,3 +31,6 @@ Open to collaboration on backend or ML projects! 💼
 - PyCharm
 - Jupyter Notebook
 
+
+## 📊 GitHub Stats
+![Melina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melinaestiri&show_icons=true&theme=radical)
